@@ -55,14 +55,18 @@ Controlling the speed of DC motor using a motor drive and regulating the speed u
 ## TASK 11: LED toggle using ESP
 Learnt to work with ESP dev module (nodemcu) create web station with an ESP8266 that is hosts site used to toggle a LED .
 ![Example Image](https://drive.google.com/uc?id=1IVdZUhGroKMpYsr8ltjMm5ypP61GrJMN)
-**Skills acquired:** working with esp.
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/wI291plNqZU/0.jpg)](http://www.youtube.com/watch?v=wI291plNqZU)
+<!-- https://www.youtube.com/watch?v=wI291plNqZU&list=PLY2nInTxFhba3tbG8pTNAOzFgVUP1A3fb&index=3 -->
+**Skills acquired:** working with esp.  
 ## TASK 12: Soldering pre-requisites
 Soldering a basic led circuit.In due process familarising with the process of Soldering 
 ![Example Image](https://drive.google.com/uc?id=1be6hQyqEP4Y5cx_Jwkrq_9bYPLH8dDm1)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 **Skills acquired:** Solder and Desoldering process.
 ## TASK 13: 555 Astable multivibrator with duty cycle 60%
 Rigging up of 555IC with Astable multivibrator with 60% duty cycle and cross verifying using CRO/DRO
 ![Example Image](https://drive.google.com/uc?id=1MttFn98c7v-FhJsSafi-9NDjmMsaO_Uu)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 **Skills acquired:** Using a Oscilloscope, working with 555IC
 ## TASK 14: Karnaugh Maps and Deriving the logic circuit
 Simulated burglar alarm with two toggle switches representing the key and the lock and using logic gates 
@@ -74,6 +78,7 @@ and making its karnaugh map of the cases and determing the logic circuit.
 **Organised** --> AR wizard : A event which introduced participants to AR technology , here a app was developed by me and the co-organisers using unity and AR core 
 a product of google to develop using AR on android. this also included debugging of code collected by the participants  
 **Participate** --> Clash of code : Qulified for Round 2 , Debug fever, Hack-a-maze (ALL Participantion certificates still not recieved) 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 
 
